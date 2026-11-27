@@ -1,0 +1,13 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.venv/
+sites/
+node_modules/
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+.idea/
+.vscode/*
+!.vscode/extensions.json
